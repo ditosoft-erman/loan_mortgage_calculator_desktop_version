@@ -11,5 +11,5 @@
 ## Tech Stacks
 - NodeJs
 - ExpressTs
-- Typescript
+- TypeORM -> Typescript
 - Postgresql
